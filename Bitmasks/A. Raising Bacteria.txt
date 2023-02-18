@@ -1,0 +1,2 @@
+https://codeforces.com/problemset/problem/579/A
+Here we solved the problem with Binary Manipulation. Converting n into binary string then counting how many 1 is available there. That is the asnwer.
