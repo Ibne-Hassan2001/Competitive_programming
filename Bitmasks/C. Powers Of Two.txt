@@ -1,0 +1,4 @@
+https://codeforces.com/contest/1095/problem/C
+
+Firstly, calculate the minimum number of powers of 2 to represent the number.
+Observe the binary representation
